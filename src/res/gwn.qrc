@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/images">
+        <file alias="ca_ico">images/ca-round.ico</file>
         <file alias="ca_round">images/ca-round.png</file>
         <file alias="map">images/map.png</file>
         <file alias="ca_flag">images/ca_flag.png</file>

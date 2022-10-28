@@ -29,5 +29,7 @@ qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
+RC_ICONS = src/res/images/ca-round.ico
+
 RESOURCES += \
     src/res/gwn.qrc
